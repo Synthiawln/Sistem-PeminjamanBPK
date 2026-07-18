@@ -6,7 +6,7 @@ Aplikasi web untuk mengelola peminjaman kendaraan dan ruangan instansi, mencakup
 **Peran saya:** System Analyst — merancang alur sistem, struktur peran pengguna, dan menyusun buku panduan penggunaan aplikasi
 
 > ⚠️ **Catatan Keamanan**
-> Aplikasi ini telah ditanam di server internal instansi dan kemungkinan masih aktif digunakan. Oleh karena itu, **kredensial login, data pribadi pegawai (nama & NIP), dan dokumen Berita Acara asli tidak ditampilkan** di repositori ini. Hanya alur kerja dan tampilan antarmuka umum yang didokumentasikan.
+> Aplikasi ini telah ditanam di server internal instansi. Oleh karena itu, **kredensial login, data pribadi pegawai (nama & NIP), dan dokumen Berita Acara asli tidak ditampilkan** di repositori ini. Hanya alur kerja dan tampilan antarmuka umum yang didokumentasikan.
 
 ---
 
