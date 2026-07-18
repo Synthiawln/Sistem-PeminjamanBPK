@@ -110,4 +110,4 @@ Melalui proyek ini saya belajar merancang sistem dengan banyak peran pengguna se
 ---
 
 ## Kontak
-Synthia Wulandari — [Synthiawln@gmail.com](mailto:Synthiawln@gmail.com) · [LinkedIn](https://linkedin.com/in/synthia-wln)
+Synthia Wulandari — [synthiawln@gmail.com](mailto:synthiawln@gmail.com) · [LinkedIn](https://www.linkedin.com/in/synthia-wulandari)
